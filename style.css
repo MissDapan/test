@@ -1,0 +1,118 @@
+body
+{
+	 font-family: 'Open Sans', sans-serif; 
+	text-align: center;
+	background-color:#f7efef;	
+}
+
+p
+{	font-size: 2.3rem;}
+
+
+	
+border : 2px solid black;
+	padding: 10px;
+	z-index: 1;
+	
+}
+
+header
+{
+	align-item: center;
+	font-size: 200px;
+	font-weight: bold;
+	
+}
+
+h1
+{	text-align: center;
+	font-size: 3rem;
+	font-weight: bold;
+	font-style: italic;
+	color : #851c05;
+}
+
+h2
+{	text-align: center;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+
+a
+{ 	text-decoration: none;
+	color : #ac270a;
+	 }
+
+
+
+li
+{ 
+	padding : 1rem;
+	margin: auto;
+	
+	
+}
+
+.Q1, .Q2, .Q3
+{
+	margin: 3rem;
+	color :#ac270a; 
+	font-weight: bold;
+	font-size: 1.5rem;
+	
+}
+
+img 
+
+{	width: 100%;
+	max-width: 350px; }
+
+footer
+{
+	margin-top: 20rem;
+	background-color: #e9c0c0;
+}
+
+.wrong, .true
+{
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	
+}
+
+.again, .next, .result
+{
+	background-color:#f9dddd;
+	border-radius:2rem;
+	border:1px solid #ac270a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ac270a;
+	font-family:Arial;
+	font-size:1.5rem;
+	padding:1rem 2rem;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+*/.again :hover 
+{
+	background-color:#f9ecec;
+	border-radius:28px;
+	border:1px solid #f9ecec;
+	padding:16px 31px;
+}
+
+.next :hover 
+{
+	background-color:#f9dddd;
+}
+
+
+h3
+{	font-weight : bold;
+	color : #d52b06;
+	font-size : 1.8rem;
+	text-shadow: 1remx 1rem 1rem #631403;}
+
