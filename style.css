@@ -2,7 +2,7 @@ body
 {
 	 font-family: 'Open Sans', sans-serif; 
 	text-align: center;
-	background-color:#f7efef;	
+	background-color:#f7efef;
 	color :#b42405;
 }
 
@@ -66,11 +66,6 @@ li
 	
 }
 
-img 
-
-{	width: 100%;
-	max-width: 350px; }
-
 footer
 {
 	margin-top: 20rem;
@@ -85,7 +80,7 @@ footer
 	
 }
 
-.again, .next, .result
+.again, .next
 {
 	background-color:#f9dddd;
 	border-radius:2rem;
